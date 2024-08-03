@@ -3,4 +3,4 @@
 # Huỳnh Trịnh Bá Phước - 2100009011
 # Võ Minh Hiếu - 2100012040
 # Nguyễn Tấn Thành - 2100002440
-
+# Nguyễn Chiến Thắng - 1900007763
